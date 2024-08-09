@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="805497f4-36e2-460d-a68f-d1adcd2bf26f" name="변경" comment="240807">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal_modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/point_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/point.py" beforeDir="false" afterPath="$PROJECT_DIR$/point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/point_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/point_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +72,7 @@
     "Python.internal_modules.executor": "Run",
     "Python.mymod.executor": "Run",
     "Python.object_ex.executor": "Run",
+    "Python.point.executor": "Run",
     "Python.point_test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",

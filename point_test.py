@@ -41,10 +41,65 @@ def class_member_test():
     print(p1.x is p2.x) # False
     print(p1.instance_count is p2.instance_count)   # True
 
+def constructor_test():
+    p1 = Point(10, 20)
+    print("instance_count:", Point.instance_count)
 
+    p2 = Point()    # 생성자의 기본 값이 활용
+    print("instance_count:", Point.instance_count)
+
+    p3 = Point(x = 30, y = 40)
+    print("instance_count:", Point.instance_count)
+
+    del p1
+    del p2
+
+    print("instance_count:", Point.instance_count)
+
+
+def stringify():
+    p = Point(10, 20)
+    print(p)    # 문자열화 -> __str__이 호출된다.
+    print(repr(p))  # 문자열화 -> 원래 객체를 재현할 수 있는 문자열 / __repr__호출
+
+    p_repr = eval(repr(p))
+    print(p_repr)
+
+    print(p.x == p_repr.x)
+    print(p.y == p_repr.y)
+
+
+from point import Singleton
+def singleton_test():
+    s = Singleton()
+    print(s)
+    # s2 = Singleton()  # 예외 발생
+    s2 = Singleton.getClassinstance()
+    print(s2)
+
+    # s1, s2 객체가 동일 객체인가?
+    print(s is s2)
+
+
+def oper_overriding():
+    # 산술연산자 오버로딩
+    print(Point(10, 20) + Point(30, 40))
+    print(Point(10, 20) + 30)
+
+    # 역이항 산술연산자 오버로딩
+    print(Point(30, 40) + Point(10, 20))
+    print(30 + Point(10, 20))   # __radd__
+
+    # 비교연산자
+    print(Point(10, 20) == Point(10, 20))   # __eq__
+    print(Point(10, 20) == Point(30, 40))
 
 
 if __name__ == "__main__":
     # bound_instance_method()
     # unbound_instance_method()
-    class_member_test()
+    # class_member_test()
+    # constructor_test()
+    # stringify()
+    # singleton_test()
+    oper_overriding()
