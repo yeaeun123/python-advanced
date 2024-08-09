@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="805497f4-36e2-460d-a68f-d1adcd2bf26f" name="변경" comment="240807">
+      <change beforePath="$PROJECT_DIR$/object_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_ex.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yeaeun123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/yeaeun123/python-advanced.git&quot;,
+    &quot;accountId&quot;: &quot;cb2eef1b-b62c-4af3-abe5-8f88a4d8c005&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/datetime_ex.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/exception_ex.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/fileio.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/flow_control.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/function_args.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/function_def.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/function_scope.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kJEAy3O9YG4Jd9ffpSPWPtp8eQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.datetime_ex.executor": "Run",
+    "Python.exception_ex.executor": "Run",
+    "Python.fileio.executor": "Run",
+    "Python.flow_control.executor": "Run",
+    "Python.function_args.executor": "Run",
+    "Python.function_def.executor": "Run",
+    "Python.function_scope.executor": "Run",
+    "Python.object_ex.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/하이미디어학원/PycharmProjects/python-advanced",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\하이미디어학원\PycharmProjects\python-advanced" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="805497f4-36e2-460d-a68f-d1adcd2bf26f" name="변경" comment="" />
+      <created>1722993139803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722993139803</updated>
+    </task>
+    <task id="LOCAL-00001" summary="240807">
+      <option name="closed" value="true" />
+      <created>1722998786590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722998786590</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="240807" />
+    <option name="LAST_COMMIT_MESSAGE" value="240807" />
+  </component>
+</project>
