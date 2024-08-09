@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="805497f4-36e2-460d-a68f-d1adcd2bf26f" name="변경" comment="240807">
-      <change beforePath="$PROJECT_DIR$/object_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal_modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mymod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +34,14 @@
     &quot;assignee&quot;: &quot;yeaeun123&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:/yeaeun123/python-advanced.git&quot;,
-    &quot;accountId&quot;: &quot;cb2eef1b-b62c-4af3-abe5-8f88a4d8c005&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yeaeun123/python-advanced.git",
+    "accountId": "cb2eef1b-b62c-4af3-abe5-8f88a4d8c005"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/class_ex.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/datetime_ex.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/exception_ex.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/fileio.py" root0="SKIP_INSPECTION" />
@@ -42,6 +49,10 @@
     <setting file="file://$PROJECT_DIR$/function_args.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/function_def.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/function_scope.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/internal_modules.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mymod.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/point.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/point_test.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -54,6 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.class_ex.executor": "Run",
     "Python.datetime_ex.executor": "Run",
     "Python.exception_ex.executor": "Run",
     "Python.fileio.executor": "Run",
@@ -61,8 +73,13 @@
     "Python.function_args.executor": "Run",
     "Python.function_def.executor": "Run",
     "Python.function_scope.executor": "Run",
+    "Python.internal_modules.executor": "Run",
+    "Python.mymod.executor": "Run",
     "Python.object_ex.executor": "Run",
+    "Python.point_test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/하이미디어학원/PycharmProjects/python-advanced",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
